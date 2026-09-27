@@ -2,7 +2,7 @@ package org.daurim.OOP.classes;
 
 
 // === Класс С инкапсуляцией ===
-public class Persson_002 {
+public class Person_002 {
 
     // Поля объявлены private - они скрыты от внешнего кода
     // и доступны только внутри данного класса

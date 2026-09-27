@@ -1,7 +1,7 @@
 package org.daurim.OOP.classes;
 
 // === Класс БЕЗ инкапсуляции
-public class Persson_001 {
+public class Person_001 {
 
     // Поля не защищены модификатором private,
     // поэтому доступны напрямую откуда угодно
@@ -9,7 +9,7 @@ public class Persson_001 {
     String fullName;
     int age;
 
-    public Persson_001(String fullName, int age) {
+    public Person_001(String fullName, int age) {
         this.fullName = fullName;
         this.age = age;
     }
